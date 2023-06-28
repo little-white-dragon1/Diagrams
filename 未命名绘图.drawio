@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T15:21:39.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="j038pcIRGieM5bh_qi7H" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T14:34:33.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="d5cKUwHYUaWajrL7NZrl" version="21.5.1" type="github">
   <diagram name="第 1 页" id="ZVFMXpemZyb0PqFnT5jA">
-    <mxGraphModel dx="2390" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,7 +509,7 @@
         <mxCell id="j7L9IW9fHPMLR9ZKcJV0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.538;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j7L9IW9fHPMLR9ZKcJV0-1" target="PCKnrNmBB_wicnJ-rnFh-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Q2jFztA82IxM55NO5So-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j7L9IW9fHPMLR9ZKcJV0-1" target="2Q2jFztA82IxM55NO5So-1">
+        <mxCell id="2Q2jFztA82IxM55NO5So-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="j7L9IW9fHPMLR9ZKcJV0-1" target="2Q2jFztA82IxM55NO5So-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j7L9IW9fHPMLR9ZKcJV0-1" value="判断当天审批时间是否在8:40-17:30之间" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -583,14 +583,65 @@
         <mxCell id="j7L9IW9fHPMLR9ZKcJV0-27" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6680" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Q2jFztA82IxM55NO5So-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Q2jFztA82IxM55NO5So-1" target="2Q2jFztA82IxM55NO5So-4">
+        <mxCell id="2Q2jFztA82IxM55NO5So-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Q2jFztA82IxM55NO5So-1" target="2Q2jFztA82IxM55NO5So-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Q2jFztA82IxM55NO5So-1" value="判断审批的开始时间是否在8:30之前且结束时间在17:30之后" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Q2jFztA82IxM55NO5So-1" value="判断审批的开始时间是否在8:30之前且结束时间在17:30之后" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6680" y="1112" width="510" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="2Q2jFztA82IxM55NO5So-4" value="全天请假" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Q2jFztA82IxM55NO5So-4" value="全天请假" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6875" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6515" y="2860" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-2" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6626" y="2690" width="470" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-3" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6666" y="2724" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-4" value="审核快递代拿任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6666" y="2814" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-5" value="查封不良用户和查看反馈结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6656" y="2909" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-6" value="查看和修改任务信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6656" y="2989" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-8" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7210" y="2860" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-9" value="查看和修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6906" y="2719" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-10" value="发布/接受快递代拿任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6906" y="2810" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-11" value="修改任务订单的状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6906" y="2895" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-12" value="发送/接受快递领取通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6906" y="2984" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-13" value="对任务指定派送员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6651.5" y="3070" width="179" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-14" value="提交app使用建议和举报不良用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6894" y="3065" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="6900" y="2970" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="6900" y="2970" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="WwIZ1IoSZ5ninTPR7dHn-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WwIZ1IoSZ5ninTPR7dHn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6545" y="2846.034420010995" as="sourcePoint" />
+            <mxPoint x="6666" y="2749.9960747663554" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
