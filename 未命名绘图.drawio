@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T10:16:36.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="-O_DI5Vdrav-eRq0ttXY" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T10:23:24.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="jlDJMtI1Iw6BH5N327jU" version="21.5.2" type="github">
   <diagram name="第 1 页" id="ZVFMXpemZyb0PqFnT5jA">
-    <mxGraphModel dx="-2807" dy="1008" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
+    <mxGraphModel dx="-3034" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1045,6 +1045,20 @@
             <mxPoint x="5362.55" y="3815" as="sourcePoint" />
             <mxPoint x="5362.55" y="3841" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mpVK1umrcz4Y5zGuOhUc-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4590.190476190476" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-103" value="打开后台管理网站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="1850" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-104" value="输入账号和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="1932" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-106" value="账号密码是否匹配？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="2018" width="180" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
