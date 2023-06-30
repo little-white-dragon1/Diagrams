@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T09:56:06.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="gWftYMmgUS6slLFug5eV" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T09:58:42.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="5lxJtvHYh0lmD7Q9jh5p" version="21.5.2" type="github">
   <diagram name="第 1 页" id="ZVFMXpemZyb0PqFnT5jA">
-    <mxGraphModel dx="-2634" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
+    <mxGraphModel dx="-2696" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -867,6 +867,9 @@
         <mxCell id="mpVK1umrcz4Y5zGuOhUc-26" value="进入app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4813" y="3680" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpVK1umrcz4Y5zGuOhUc-27" target="mpVK1umrcz4Y5zGuOhUc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mpVK1umrcz4Y5zGuOhUc-27" value="订单列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4530" y="3810" width="120" height="40" as="geometry" />
         </mxCell>
@@ -905,6 +908,30 @@
             <mxPoint x="5170" y="3780" as="sourcePoint" />
             <mxPoint x="5170" y="3810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpVK1umrcz4Y5zGuOhUc-39" target="mpVK1umrcz4Y5zGuOhUc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-39" value="查看任务列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpVK1umrcz4Y5zGuOhUc-40" target="mpVK1umrcz4Y5zGuOhUc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpVK1umrcz4Y5zGuOhUc-40" target="mpVK1umrcz4Y5zGuOhUc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-40" value="是否合适？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="3950" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpVK1umrcz4Y5zGuOhUc-41" target="mpVK1umrcz4Y5zGuOhUc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-41" value="领取任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="4010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mpVK1umrcz4Y5zGuOhUc-42" value="完成任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="4070" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
