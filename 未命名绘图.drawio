@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T10:46:01.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="rT1iaI8MrvVSc5JKkXfO" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T05:56:30.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="QUnG4phpAwto5K2MTPxu" version="21.5.2" type="github">
   <diagram name="第 1 页" id="ZVFMXpemZyb0PqFnT5jA">
-    <mxGraphModel dx="-3376" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
+    <mxGraphModel dx="-2713" dy="926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1177,11 +1177,14 @@
             <mxPoint x="4584.67" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qbDrUxW-etsty1WcBvcb-1" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qbDrUxW-etsty1WcBvcb-1" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4584" y="2060" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qbDrUxW-etsty1WcBvcb-4" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qbDrUxW-etsty1WcBvcb-4" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4460" y="1982" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pobsdL6UqOl9H2rSvvbU-1" value="前端用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="7445" y="3465" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
