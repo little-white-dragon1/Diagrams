@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T07:11:34.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Ibihzng9b_FkP1Mo8F9P" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T07:18:44.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7eRJ4H8XIQItySPPeOc6" version="22.1.7" type="github">
   <diagram name="第 1 页" id="ZVFMXpemZyb0PqFnT5jA">
     <mxGraphModel dx="-3444" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
       <root>
@@ -1234,14 +1234,17 @@
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-1" value="取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5950" y="-760" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-2" target="wAuRtEWmiPqhsZu_1Nn_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-2" value="根据X和Y查看是否记录已经存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5889.25" y="-690" width="220.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-8" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6042" y="-620" width="60" height="30" as="geometry" />
+          <mxGeometry x="6015" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-14" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6102" y="-690" width="60" height="30" as="geometry" />
+          <mxGeometry x="6156.5" y="-700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-18" target="wAuRtEWmiPqhsZu_1Nn_-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1258,14 +1261,58 @@
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.511;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-2" target="wAuRtEWmiPqhsZu_1Nn_-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-22" value="查看是否可以修复？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5910" y="-310" width="160" height="50" as="geometry" />
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-23" target="wAuRtEWmiPqhsZu_1Nn_-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-23" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5940" y="-360" width="105" height="30" as="geometry" />
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-23" value="根据Surface将T/B ok设置为true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5947.12" y="-410" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5999.862068965517" y="-410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-24" value="判断层别是否一致且是否可以修复？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5882.5" y="-520" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-26" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6020" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-27" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5790" y="-540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-28" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6342.5" y="-690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-29" value="将Isok设置为true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5947.5" y="-340" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-33" target="wAuRtEWmiPqhsZu_1Nn_-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-33" value="根据Surface将T/B ok设置为false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6216.5" y="-600" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-34" target="wAuRtEWmiPqhsZu_1Nn_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-34" value="将IsOK设置为False" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6216.5" y="-540" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-35" value="设置是否可以修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6220" y="-480" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-41" target="wAuRtEWmiPqhsZu_1Nn_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-41" value="跳过此次循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5710" y="-620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.46;entryY=1.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAuRtEWmiPqhsZu_1Nn_-24" target="wAuRtEWmiPqhsZu_1Nn_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-46" value="添加历史表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5947.5" y="-270" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
