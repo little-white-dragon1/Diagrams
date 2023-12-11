@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T06:41:16.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SRBU87mmwEL6FhYW5G8R" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T06:59:25.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1W2jEF7q5coROe2C4FC-" version="22.1.7" type="github">
   <diagram name="第 1 页" id="ZVFMXpemZyb0PqFnT5jA">
-    <mxGraphModel dx="-3444" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
+    <mxGraphModel dx="-3444" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="118900" pageHeight="118900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1234,14 +1234,20 @@
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-1" value="取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5950" y="-760" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-2" value="数据是否已经存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-2" value="根据X和Y查看是否记录已经存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5889.25" y="-690" width="221.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-8" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5990" y="-620" width="60" height="30" as="geometry" />
+          <mxGeometry x="6042" y="-620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAuRtEWmiPqhsZu_1Nn_-14" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6102" y="-690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-18" value="将Action设置为Create" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5940" y="-830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wAuRtEWmiPqhsZu_1Nn_-19" value="将Action设置为Update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5945" y="-590" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
