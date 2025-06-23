@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="27.1.4">
   <diagram name="第 1 页" id="NM45Fy-Pm7l9fKpPG5w4">
-    <mxGraphModel dx="2388" dy="1944" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,6 +477,9 @@
         </mxCell>
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-206" value="" style="shape=mxgraph.pid.heat_exchangers.fixed_straight_tubes_heat_exchanger;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="652" width="354" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-207" value="" style="shape=mxgraph.pid.vessels.barrel,_drum;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="897" y="682" width="286" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
