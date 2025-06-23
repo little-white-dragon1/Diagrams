@@ -634,6 +634,9 @@
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-266" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;direction=south;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1901" y="756" width="264" height="325" as="geometry" />
         </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-269" value="" style="shape=mxgraph.pid.vessels.double_concrete_tank;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="86" y="1752" width="576.5" height="132" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
