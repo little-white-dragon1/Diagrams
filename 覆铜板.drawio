@@ -475,6 +475,9 @@
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-204" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=94.99993896484375;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="644" y="838" width="436" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-206" value="" style="shape=mxgraph.pid.heat_exchangers.fixed_straight_tubes_heat_exchanger;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="652" width="354" height="526" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
