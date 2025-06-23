@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="27.1.4">
   <diagram name="第 1 页" id="NM45Fy-Pm7l9fKpPG5w4">
-    <mxGraphModel dx="3713" dy="2707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="5370" dy="3660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,11 +574,23 @@
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-243" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1279.67" y="1116" width="275" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="Wi9fWY7tMc1d5rnaZym0-244" value="" style="shape=mxgraph.pid.shaping_machines.shaping_machine_(vertical);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1803" y="632" width="452" height="81" as="geometry" />
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-244" value="" style="shape=mxgraph.pid.shaping_machines.shaping_machine_(vertical);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="642" width="435" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="Wi9fWY7tMc1d5rnaZym0-246" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="734.5" width="480" height="551" as="geometry" />
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-246" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="741.5" width="264" height="356.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-247" value="" style="shape=mxgraph.pid.shaping_machines.shaping_machine_(vertical);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="2372" y="705" width="72" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-248" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="2469" y="730.5" width="264" height="356.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-249" value="" style="shape=mxgraph.pid.shaping_machines.shaping_machine_(vertical);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1813" y="1119" width="435" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-250" value="" style="shape=mxgraph.pid.shaping_machines.shaping_machine_(vertical);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2758" y="702.25" width="72" height="435" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
