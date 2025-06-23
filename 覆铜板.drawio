@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wi9fWY7tMc1d5rnaZym0-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;direction=south;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="139.16" y="44" width="97" height="148" as="geometry" />
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-72" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="139.86" y="62" width="90.14" height="126" as="geometry" />
         </mxCell>
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-1" value="环氧树脂" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.2285853794642705;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="101.41" y="-66" width="37" height="67" as="geometry" />
@@ -18,12 +18,6 @@
         </mxCell>
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-15" value="催化剂" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.2285853794642705;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="235.41" y="-66" width="37" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi9fWY7tMc1d5rnaZym0-17" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182.66" y="25" width="10" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi9fWY7tMc1d5rnaZym0-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;direction=south;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152.16" y="137" width="71" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="113.91" y="8" width="147.5" height="20" as="geometry" />
@@ -126,6 +120,15 @@
         </mxCell>
         <mxCell id="Wi9fWY7tMc1d5rnaZym0-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="447" width="113" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-73" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="139.86" y="84.5" width="90.14" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;direction=south;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152.43" y="143" width="71" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi9fWY7tMc1d5rnaZym0-17" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.66000000000003" y="28" width="10" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
