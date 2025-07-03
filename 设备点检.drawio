@@ -31,15 +31,6 @@
         <mxCell id="FPqpkHdSP8rBFJN2-_jl-6" value="判断上一次点检的时间到现在的时间是否超过有效期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="150" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FPqpkHdSP8rBFJN2-_jl-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="510" as="sourcePoint" />
-            <mxPoint x="870" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FPqpkHdSP8rBFJN2-_jl-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="560" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="FPqpkHdSP8rBFJN2-_jl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FPqpkHdSP8rBFJN2-_jl-11" target="FPqpkHdSP8rBFJN2-_jl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
